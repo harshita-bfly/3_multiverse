@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Pop_Up_Script2 : MonoBehaviour
+public class Pop_Up_Script_2 : MonoBehaviour
 {
 
 
