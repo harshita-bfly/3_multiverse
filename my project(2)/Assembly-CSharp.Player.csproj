@@ -622,6 +622,8 @@
     <Compile Include="Assets\Pop_Up_Script.cs" />
     <Compile Include="Assets\Pop_Up_Script_2.cs" />
     <Compile Include="Assets\Pop_Up_Script_3.cs" />
+    <Compile Include="Assets\Pop_up_script3.cs" />
+    <Compile Include="Assets\collect.cs" />
     <Compile Include="Assets\pop_up.cs" />
   </ItemGroup>
   <ItemGroup>
