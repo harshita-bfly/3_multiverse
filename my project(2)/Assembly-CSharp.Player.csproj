@@ -616,13 +616,13 @@
     <Compile Include="Assets\Button_Script2.cs" />
     <Compile Include="Assets\Button_Script3.cs" />
     <Compile Include="Assets\Button_script.cs" />
-    <Compile Include="Assets\Laterns and candles\scripts\CameraFacing.cs" />
-    <Compile Include="Assets\Laterns and candles\scripts\ExtendedFlycam.cs" />
     <Compile Include="Assets\PlayerController.cs" />
     <Compile Include="Assets\Pop_Up_Script.cs" />
     <Compile Include="Assets\Pop_Up_Script_2.cs" />
     <Compile Include="Assets\Pop_Up_Script_3.cs" />
     <Compile Include="Assets\Pop_up_script3.cs" />
+    <Compile Include="Assets\Scenes\loginPage.cs" />
+    <Compile Include="Assets\VIDEO.cs" />
     <Compile Include="Assets\collect.cs" />
     <Compile Include="Assets\pop_up.cs" />
   </ItemGroup>
