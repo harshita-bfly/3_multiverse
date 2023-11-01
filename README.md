@@ -9,8 +9,8 @@ But wait! Want to earn BONUS POINTS? Solve the coding question posed to you ever
 <h2>Part 3 of main game 🎮</h2>
 
 - A Unity-based game component that guides users through the universe to discover and reveal clues.
-- Scripting is done based on C# programming language.
-- Players need to collect clues to earn points and gain hints.
+- Scripting is done using C# programming language.
+- Players need to collect hints to earn points and gain the advantage.
 - Solve a coding question on Hackerrank in order to move to the next level.
 
 Get ready for a multiversal blackhole voyage!!
